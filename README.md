@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Blessing!
 
-<!--
-**proffy642/proffy642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer from Nigeria 🇳🇬 who loves building projects and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🐍 Favorite language
+- Python 🐍 (my go-to for projects, automation & learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Fun Python projects (like a Blackjack game,Silent/Secret bidding app)
+- Improving my problem-solving skills through daily practice
+
+## 🌱 What I'm currently learning
+- Advanced Python concepts (OOP, modules)
+- Exploring Django, VS code for web development
+
+## 🎵 Fun facts
+- I love listening to good music while coding 🎧
+- 🌍 Always open to collaborate on open-source projects
+- 🧩 Problem-solving is my favorite part of coding
+- In my free time, I enjoy playing games 🎮
+
+## 📫 How to reach me
+- Email: blessingodugbesan@gmail.com
+- Instagram: [@blessing_1003](https://instagram.com/blessing_1003)
+
+## 🛠 Tools & technologies I use
+![Python]
+![Git]
+
+Thanks for visiting my profile! Feel free to check out my projects and say hi! 👋
